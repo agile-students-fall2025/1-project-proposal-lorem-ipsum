@@ -60,7 +60,8 @@ This ensures we deliver a **functional MVP** (Minimum Viable Product) by semeste
 ## Team Members
 
 - [Saad Iftikhar](https://github.com/saad-iftikhar)  
-- [Talal Naveed](https://github.com/TalalNaveed)  
+- [Talal Naveed](https://github.com/TalalNaveed)
+- [Shaf Khalid](https://github.com/Shaf5) 
 
 ---
 
