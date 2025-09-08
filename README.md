@@ -4,7 +4,7 @@
 
 The **Campus Item Management Platform (CIMP)** is a mobile-friendly web application designed to centralize and simplify the process of borrowing, reserving, and managing items across university facilities such as the **IM Lab**, **Arts Centre**, and **Library**.  
 
-Currently, students rely on fragmented systems—or in many cases, manual tracking—for checking out items like cameras, laptops, sports gear, or arts equipment. This leads to common problems:
+Currently, students rely on fragmented systems—or in many cases, manual tracking for checking out items like cameras, laptops, sports gear, or arts equipment. This leads to common problems:
 - Students forget return deadlines.
 - Issuers manually track overdue items.
 - Students have no easy way to check item availability or reserve in advance.
