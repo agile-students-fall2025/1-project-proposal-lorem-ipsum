@@ -23,8 +23,6 @@ CIMP solves these problems by **bringing everything into one platform** with **a
 - **Secondary Users**:  
   - Campus administration departments seeking usage data for resource planning.  
 
-These are real users: We have identified students at our university who face these pain points daily, as well as staff in libraries, labs, and art centers who manage checkouts manually or through disconnected systems.
-
 ---
 
 ## How?
