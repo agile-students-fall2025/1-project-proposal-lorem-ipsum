@@ -62,6 +62,8 @@ This ensures we deliver a **functional MVP** (Minimum Viable Product) by semeste
 - [Saad Iftikhar](https://github.com/saad-iftikhar)  
 - [Talal Naveed](https://github.com/TalalNaveed)
 - [Shaf Khalid](https://github.com/Shaf5) 
+- [Akshith Karthik](https://github.com/Ak1016-stack)
+- [Ashmit Mukherjee](https://github.com/ansester)
 
 ---
 
