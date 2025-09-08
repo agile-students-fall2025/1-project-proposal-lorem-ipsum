@@ -47,15 +47,7 @@ Example scenario:
 
 ---
 
-## Scope
 
-The scope is **balanced for a semester-long project** with 4–6 developers:  
-- **Challenging enough**: Integrates SSO login, payment gateway, notifications, and real-time availability.  
-- **Feasible within one semester**: Core features (inventory, reservations, reminders) can be built iteratively using standard web frameworks and cloud services.  
-
-This ensures we deliver a **functional MVP** (Minimum Viable Product) by semester’s end while leaving room for optional enhancements like analytics dashboards and advanced filtering.
-
----
 
 ## Team Members
 
