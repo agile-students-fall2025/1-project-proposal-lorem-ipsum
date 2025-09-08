@@ -67,16 +67,8 @@ This ensures we deliver a **functional MVP** (Minimum Viable Product) by semeste
 
 ## Deliverables
 
-1. **MVP**: Fully functional platform with SSO login, inventory, reservations, and reminders.  
-2. **Demo**: Live web application running on campus servers or cloud hosting.  
-3. **Documentation**: Setup guide, user manual, and technical documentation for future iterations.  
+1.  Fully functional platform with SSO login, inventory, reservations, and reminders.  
+2.  Live web application running on campus servers or cloud hosting.  
+3.  Setup guide, user manual, and technical documentation for future iterations.  
 
----
 
-## Submission Instructions
-
-This document is formatted for the `README.md` file in our GitHub repository.  
-Once approved, we will:  
-- Clone the repository via **Visual Studio Code**.  
-- Add, commit, and push this proposal.  
-- Share the GitHub link in the required channels as instructed.  
