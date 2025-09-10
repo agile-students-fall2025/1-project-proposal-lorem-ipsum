@@ -52,7 +52,7 @@ A student needs a DSLR camera for a photography project. Using CAMP, they log in
 ## Team Members
 
 * Saad Iftikhar
-* * [Talal Naveed](https://github.com/TalalNaveed)
+* [Talal Naveed](https://github.com/TalalNaveed)
 * Shaf Khalid
 * Akshith Karthik
 * Ashmit Mukherjee
