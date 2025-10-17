@@ -22,10 +22,6 @@ Currently, students rely on fragmented systems—or in many cases, manual tracki
 * **Students**: who borrow campus resources (e.g., cameras, lab kits, sports gear).
 * **Staff**: responsible for issuing and managing items at different locations.
 
-**Secondary Users**
-
-* **University administrators**: who benefit from data insights for resource planning and optimization.
-
 ---
 
 ## How?
